@@ -1,0 +1,17 @@
+# Book settings
+# Learn more at https://jupyterbook.org/customize/config.html
+
+title: Automatidata Project
+author: Kasra Hashemi
+logo: taxi.png
+
+# Force re-execution of notebooks on each build.
+# See https://jupyterbook.org/content/execute.html
+execute:
+  execute_notebooks: force
+
+latex:
+  latex_engine: pdflatex
+
+latex:
+  use_jupyterbook_latex: false

@@ -1,0 +1,10 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: index.md
+chapters:
+- file: Automatidata_EDA.ipynb
+- file: Automatidata_Statistical Analysis.ipynb
+- file: Automatidata_Regression Analysis.ipynb
+- file: Automatidata_Machine Learning.ipynb
